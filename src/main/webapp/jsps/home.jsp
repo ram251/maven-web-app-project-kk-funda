@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK AWS New batch May 25th 6:45AM to 8:45AM IST</h1>
-<h1 align="center"> KK FUNDA Devops Institute</h1>
+<h1 align="center"> KK FUNDA Devops Institute Bengalore</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
