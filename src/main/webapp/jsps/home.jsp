@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK AWS and DevOps New batch</h1>
-<h1 align="center"> KK FUNDA Devops Training Institute</h1>
+<h1 align="center"> KK FUNDA Devops Training Institute Bengalore</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
