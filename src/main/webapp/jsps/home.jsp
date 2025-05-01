@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to KK AWS and DevOps New batch May 25th 6:45AM to 8:45AM IST Please reach out to me</h1>
+<h1 align="center">Welcome to KK AWS and DevOps New batch</h1>
 <h1 align="center"> KK FUNDA Devops Training Institute</h1>
 <hr>
 <br>
